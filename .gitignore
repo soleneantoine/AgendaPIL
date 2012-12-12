@@ -4,3 +4,7 @@
 /AgendaPIL-war/dist/
 /AgendaPIL-war/build/
 /dist/
+/.DS_Store
+/AgendaPIL-ejb/.DS_Store
+/AgendaPIL-war/.DS_Store
+/AgendaPIL-ejb/.DS_Store
